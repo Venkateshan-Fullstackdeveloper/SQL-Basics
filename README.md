@@ -1,0 +1,8 @@
+# SQL-Basics
+SQL Basics from LCO
+-INCLUDES
+  *DDL
+  *DML
+  *AGGREGATE FUNCTIONS
+  *JOINS
+  *THEORY
